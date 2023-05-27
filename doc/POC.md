@@ -36,7 +36,7 @@
    ```
 6. Open a web browser and navigate to `https://localhost:8080`. You should now be able to access the ArgoCD graphical interface.
 
-7. For access гse the password from step 5 to log in and name admin
+7. For access use the password from step 5 to log in and name admin
 
 
 ![Screen-Recording-2023-05-28-at-00 07 00](https://github.com/fry88/AsciiArtify/assets/75542876/06ddb32b-039c-4306-a7b3-adbea6cc48ff)
